@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=League+Spartan:wght@300&family=Quicksand:wght@700&family=Secular+One&family=Square+Peg&display=swap');
+
+body {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: blanchedalmond;
+    font-family: 'Square Peg', cursive;
+    font-size: 50px;
+}
+
+img {
+    border-radius: 60%;
+    width: 200px;
+    height: 200px;
+    border: 6px solid rgb(240, 224, 107);
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(240, 224, 107);
+}
+
+
+.container {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: blanchedalmond;
+}
+
